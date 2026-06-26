@@ -1,0 +1,9 @@
+{
+  "id": "autoThreatHunt",
+  "version": "2.19.4",
+  "opensearchDashboardsVersion": "2.19.4",
+  "server": true,
+  "ui": true,
+  "requiredPlugins": ["navigation"],
+  "optionalPlugins": []
+}

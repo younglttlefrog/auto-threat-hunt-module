@@ -1,0 +1,7 @@
+{
+  "prefix": "autoThreatHunt",
+  "paths": {
+    "autoThreatHunt": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}

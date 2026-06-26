@@ -1,0 +1,10 @@
+{
+  "name": "autoThreatHunt",
+  "version": "2.19.4",
+  "opensearchDashboards": {
+    "version": "2.19.4"
+  },
+  "dependencies": {
+    "reactflow": "^11.11.4"
+  }
+}
